@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Outfit:wght@100..900&display=swap');
+
+body {
+    height: 100vh;
+    background-color: silver;
+    font-family: Bungee;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    padding-top: 50px;
+    text-shadow: 80px;
+}
+
+.slang {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.offToTheConsole {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: 20px;
+}
+
+.calculator {
+    display: flex;
+    background-color: rgb(27, 26, 26);
+    align-items: center;
+    height: 50vh;
+    border-radius: 15px;
+    
+    
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+   
+    
+
+}

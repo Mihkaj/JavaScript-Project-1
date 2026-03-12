@@ -22,7 +22,6 @@ console.log("Then be prepared to witness mathematical magic!")
         return a / b;
     }
 */
-
 const display = document.getElementById("display");
 
 function appendToDisplay(input) {
